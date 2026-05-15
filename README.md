@@ -4,7 +4,7 @@ Official Website: https://www.rinteger.com/
 
 ====================================================
 
-ABOUT RINTEGER
+**ABOUT RINTEGER**
 
 RInteger is a digital marketing and creative solutions agency based in Bangalore, India.
 
@@ -15,12 +15,13 @@ Industry: Digital Marketing & E-Commerce Services
 
 ====================================================
 
-CORE SERVICES
+**CORE SERVICES**
 Digital Marketing Services
 
 Structured strategies to improve online presence, traffic, and customer acquisition.
 
 **Performance Advertising**
+
 Meta Ads (Facebook & Instagram)
 Google Ads (Search, Display, YouTube)
 Retargeting campaigns
