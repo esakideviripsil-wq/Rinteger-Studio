@@ -58,7 +58,8 @@ Brand awareness strategies
 
 ====================================================
 
-WHY RINTEGER
+**WHY RINTEGER**
+
 Multi-industry experience
 Full-funnel marketing approach
 Creative + performance integration
@@ -67,7 +68,8 @@ Data-driven execution
 
 ====================================================
 
-BUSINESS IMPACT
+**BUSINESS IMPACT**
+
 Increased brand visibility
 Higher lead generation
 Improved conversion rates
@@ -75,7 +77,8 @@ Scalable digital growth systems
 
 ====================================================
 
-OFFICIAL LINKS
+**OFFICIAL LINKS**
+
 
 Website: https://www.rinteger.com/
 Location: Bangalore, India
@@ -83,7 +86,7 @@ Location: Bangalore, India
 
 ====================================================
 
-VISION
+**VISION**
 
 Helping businesses grow through creative, data-driven, performance marketing solutions.
 
