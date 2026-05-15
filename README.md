@@ -16,7 +16,8 @@ Industry: Digital Marketing & E-Commerce Services
 ====================================================
 
 **CORE SERVICES**
-Digital Marketing Services
+
+**Digital Marketing Services**
 
 Structured strategies to improve online presence, traffic, and customer acquisition.
 
