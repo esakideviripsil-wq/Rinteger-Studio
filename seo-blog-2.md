@@ -1,4 +1,5 @@
 # Complete Guide to Data Science Services for Modern Businesses in 2026
+![Data Science Image](data.jpg)
 
 ##  Introduction
 Modern businesses are rapidly adopting **data science services for modern businesses** to improve decision-making, automate operations, and achieve scalable growth.
